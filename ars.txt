@@ -1,4 +1,4 @@
-# These are the default properties (for dev environments)
+# These are the default properties (for dev environments) testars.properties
 #arsMongoURI=mongodb://dat-gs2b-5:27018,dat-pr2-5:27018/ars?maxPoolSize=200&connectTimeoutMS=5000
 #arsMongoURI=mongodb://dat-gs2b-1:27018,dat-pr2-4:27018/ars?maxPoolSize=200&connectTimeoutMS=5000
 arsMongoURI=mongodb://ecomm-ref-db1.int.o2.co.uk:27018,ecomm-ref-db2.int.o2.co.uk:27018,ecomm-ref-db3.int.o2.co.uk:27018/ars?maxPoolSize=10&waitQueueMultiple=10&connectTimeoutMS=2000&waitQueueTimeoutMS=2000&socketTimeoutMS=30000&safe=true
